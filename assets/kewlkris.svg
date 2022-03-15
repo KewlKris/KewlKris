@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="220.93mm" height="94.143mm" version="1.1" viewBox="0 0 220.93 94.143" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="Floor_Gradient">
+   <stop stop-color="#0d1117" stop-opacity="0" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient16967" x1="234.46" x2="234.46" y1="146.81" y2="52.898" gradientTransform="translate(-156.46 107.19)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0d1117" stop-opacity="0" offset="0"/>
+   <stop offset=".26091"/>
+   <stop offset=".74"/>
+   <stop stop-color="#0d1117" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2102" x1="229.38" x2="306.64" y1="97.506" y2="97.506" gradientTransform="matrix(1 0 0 .99337 0 .33352)" gradientUnits="userSpaceOnUse" xlink:href="#Floor_Gradient"/>
+ </defs>
+ <g transform="translate(34.104 -159.96)">
+  <path id="Background" d="m-33.971 160.11 220.66 1.1e-4 -76.257 25v44.162l76.258 24.65-220.66 0.0186 76.258-24.848 7.2e-4 -44.148z" fill="url(#linearGradient16967)" fill-rule="evenodd" stop-color="#000000" stroke-dashoffset="15.426" stroke-linejoin="round" stroke-width="9.657" style="paint-order:markers fill stroke"/>
+  <g transform="translate(-263.36 109.84)">
+   <path d="m229.38 50.278 77.258 24.834v44.161l-77.258 24.835z" fill="url(#linearGradient2102)" fill-rule="evenodd" stop-color="#000000" stroke-dashoffset="15.426" stroke-linejoin="round" stroke-width="5.3293" style="mix-blend-mode:normal;paint-order:markers fill stroke"/>
+   <g transform="translate(-9.7e-4,2.09e-4)" fill="none" stroke="#000">
+    <g transform="matrix(1 0 0 .99317 0 .3435)" stroke-width=".26458px">
+     <path d="m306.64 75.278v44.456">
+      <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 306.643,75.2777 V 119.734; M 304.292,74.5172 V 120.494"/>
+     </path>
+     <g>
+      <path d="m304.29 74.517v45.977">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 304.292,74.5172 V 120.494; M 301.775,73.7027 V 121.309"/>
+      </path>
+      <path d="m301.78 73.703v47.606">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 301.775,73.7027 V 121.309; M 299.074,72.8285 V 122.183"/>
+      </path>
+      <path d="m299.07 72.828v49.354">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 299.074,72.8285 V 122.183; M 296.166,71.8875 V 123.124"/>
+      </path>
+      <path d="m296.17 71.888v51.236">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 296.166,71.8875 V 123.124; M 293.027,70.872 V 124.14"/>
+      </path>
+      <path d="m293.03 70.872v53.268">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 293.027,70.872 V 124.14; M 289.63,69.7726 V 125.239"/>
+      </path>
+      <path d="m289.63 69.773v55.466">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 289.63,69.7726 V 125.239; M 285.94,68.5785 V 126.433"/>
+      </path>
+      <path d="m285.94 68.578v57.854">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 285.94,68.5785 V 126.433; M 281.918,67.2771 V 127.735"/>
+      </path>
+      <path d="m281.92 67.277v60.458">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 281.918,67.2771 V 127.735; M 277.517,65.8529 V 129.159"/>
+      </path>
+      <path d="m277.52 65.853v63.306">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 277.517,65.8529 V 129.159; m 272.681,64.288 v 66.436"/>
+      </path>
+      <path d="m272.68 64.288v66.436">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="m 272.681,64.288 v 66.436; M 267.341,62.5602 V 132.452"/>
+      </path>
+      <path d="m267.34 62.56v69.892">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 267.341,62.5602 V 132.452; M 261.416,60.6429 V 134.369"/>
+      </path>
+      <path d="m261.42 60.643v73.726">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 261.416,60.6429 V 134.369; M 254.803,58.5029 V 136.509"/>
+      </path>
+      <path d="m254.8 58.503v78.006">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 254.803,58.5029 V 136.509; M 247.375,56.0992 V 138.913"/>
+      </path>
+      <path d="m247.38 56.099v82.814">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 247.375,56.0992 V 138.913; M 238.97,53.3797 V 141.632"/>
+      </path>
+      <path d="m238.97 53.38v88.252">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 238.97,53.3797 V 141.632; m 229.385,50.278 v 94.456"/>
+      </path>
+      <path d="m229.38 50.278v94.456">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="m 229.385,50.278 v 94.456; m 229.385,50.278 v 94.456"/>
+      </path>
+     </g>
+    </g>
+    <g transform="matrix(0 -1.2226 1 0 69.321 297.41)">
+     <path d="m202.14 160.06-20.448 77.257" stroke-width=".26458px"/>
+     <g>
+      <g stroke-width=".26458px">
+       <path d="m196.23 160.06-17.323 77.257"/>
+       <path d="m190.33 160.06-14.198 77.257"/>
+       <path d="m184.42 160.06-11.073 77.257"/>
+       <path d="m178.52 160.06-7.948 77.257"/>
+      </g>
+      <path d="m172.62 160.06-4.823 77.257" stroke-width=".26499"/>
+      <g stroke-width=".26458px">
+       <path d="m166.71 160.06-1.698 77.257"/>
+       <path d="m160.81 160.06 1.427 77.257"/>
+       <path d="m154.91 160.06 4.552 77.257"/>
+       <path d="m149 160.06 7.677 77.257"/>
+       <path d="m143.1 160.06 10.802 77.257"/>
+       <path d="m137.2 160.06 13.927 77.257"/>
+       <path d="m131.29 160.06 17.052 77.257"/>
+       <path d="m125.39 160.06 20.177 77.257"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="matrix(-1 0 0 1 416.07 109.84)">
+   <path d="m229.38 50.278 77.258 24.834v44.161l-77.258 24.835z" fill="url(#linearGradient2102)" fill-rule="evenodd" stop-color="#000000" stroke-dashoffset="15.426" stroke-linejoin="round" stroke-width="5.3293" style="mix-blend-mode:normal;paint-order:markers fill stroke"/>
+   <g transform="translate(-9.7e-4,2.09e-4)" fill="none" stroke="#000">
+    <g transform="matrix(1 0 0 .99317 0 .3435)" stroke-width=".26458px">
+     <path d="m306.64 75.278v44.456">
+      <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 306.643,75.2777 V 119.734; M 304.292,74.5172 V 120.494"/>
+     </path>
+     <g>
+      <path d="m304.29 74.517v45.977">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 304.292,74.5172 V 120.494; M 301.775,73.7027 V 121.309"/>
+      </path>
+      <path d="m301.78 73.703v47.606">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 301.775,73.7027 V 121.309; M 299.074,72.8285 V 122.183"/>
+      </path>
+      <path d="m299.07 72.828v49.354">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 299.074,72.8285 V 122.183; M 296.166,71.8875 V 123.124"/>
+      </path>
+      <path d="m296.17 71.888v51.236">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 296.166,71.8875 V 123.124; M 293.027,70.872 V 124.14"/>
+      </path>
+      <path d="m293.03 70.872v53.268">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 293.027,70.872 V 124.14; M 289.63,69.7726 V 125.239"/>
+      </path>
+      <path d="m289.63 69.773v55.466">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 289.63,69.7726 V 125.239; M 285.94,68.5785 V 126.433"/>
+      </path>
+      <path d="m285.94 68.578v57.854">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 285.94,68.5785 V 126.433; M 281.918,67.2771 V 127.735"/>
+      </path>
+      <path d="m281.92 67.277v60.458">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 281.918,67.2771 V 127.735; M 277.517,65.8529 V 129.159"/>
+      </path>
+      <path d="m277.52 65.853v63.306">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 277.517,65.8529 V 129.159; m 272.681,64.288 v 66.436"/>
+      </path>
+      <path d="m272.68 64.288v66.436">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="m 272.681,64.288 v 66.436; M 267.341,62.5602 V 132.452"/>
+      </path>
+      <path d="m267.34 62.56v69.892">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 267.341,62.5602 V 132.452; M 261.416,60.6429 V 134.369"/>
+      </path>
+      <path d="m261.42 60.643v73.726">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 261.416,60.6429 V 134.369; M 254.803,58.5029 V 136.509"/>
+      </path>
+      <path d="m254.8 58.503v78.006">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 254.803,58.5029 V 136.509; M 247.375,56.0992 V 138.913"/>
+      </path>
+      <path d="m247.38 56.099v82.814">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 247.375,56.0992 V 138.913; M 238.97,53.3797 V 141.632"/>
+      </path>
+      <path d="m238.97 53.38v88.252">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="M 238.97,53.3797 V 141.632; m 229.385,50.278 v 94.456"/>
+      </path>
+      <path d="m229.38 50.278v94.456">
+       <animate attributeName="d" dur="1s" repeatCount="indefinite" values="m 229.385,50.278 v 94.456; m 229.385,50.278 v 94.456"/>
+      </path>
+     </g>
+    </g>
+    <g transform="matrix(0 -1.2226 1 0 69.321 297.41)">
+     <path d="m202.14 160.06-20.448 77.257" stroke-width=".26458px"/>
+     <g>
+      <g stroke-width=".26458px">
+       <path d="m196.23 160.06-17.323 77.257"/>
+       <path d="m190.33 160.06-14.198 77.257"/>
+       <path d="m184.42 160.06-11.073 77.257"/>
+       <path d="m178.52 160.06-7.948 77.257"/>
+      </g>
+      <path d="m172.62 160.06-4.823 77.257" stroke-width=".26499"/>
+      <g stroke-width=".26458px">
+       <path d="m166.71 160.06-1.698 77.257"/>
+       <path d="m160.81 160.06 1.427 77.257"/>
+       <path d="m154.91 160.06 4.552 77.257"/>
+       <path d="m149 160.06 7.677 77.257"/>
+       <path d="m143.1 160.06 10.802 77.257"/>
+       <path d="m137.2 160.06 13.927 77.257"/>
+       <path d="m131.29 160.06 17.052 77.257"/>
+       <path d="m125.39 160.06 20.177 77.257"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="main_text" transform="matrix(.8332 0 0 .83319 9.0182 248.93)" style="" aria-label="KewlKris">
+   <style>@keyframes rainbow{from{fill:rgba(139,0,0,0.3);stroke:red}16%{fill:rgba(255,140,0,0.3);stroke:orange}32%{fill:rgba(182,182,0,0.3);stroke:yellow}48%{fill:rgba(0,100,0,0.3);stroke:green}64%{fill:rgba(0,0,139,0.3);stroke:blue}80%{fill:rgba(139,0,139,0.3);stroke:magenta}to{fill:rgba(139,0,0,0.3);stroke:red}}</style>
+   <g stroke="#00f" stroke-width=".996">
+    <path d="m26.298-38.595q-0.92332 0-1.7193-0.38206-0.76413-0.38206-0.76413-1.1462v-20.249q0-0.79596 0.76413-1.1462 0.79596-0.35022 1.7193-0.35022 0.92332 0 1.6874 0.35022 0.79596 0.35022 0.79596 1.1462v7.6413l5.9538-8.4372q0.47758-0.70045 1.3054-0.70045 0.63677 0 1.3054 0.38206 0.70045 0.38206 1.1462 0.95516 0.47758 0.5731 0.47758 1.2099 0 0.19103-0.06368 0.44574-0.06368 0.25471-0.25471 0.50942l-5.2215 6.5588 6.5906 10.093q0.25471 0.4139 0.25471 0.8278 0 0.60493-0.44574 1.178-0.44574 0.57309-1.1462 0.95516-0.66861 0.35022-1.4009 0.35022-0.50942 0-0.95516-0.19103-0.44574-0.22287-0.76413-0.73229l-5.4444-8.278-1.3372 1.7193v5.7628q0 0.76413-0.79596 1.1462-0.76413 0.38206-1.6874 0.38206z" style="animation:5s linear -3.5s infinite rainbow reverse"/>
+    <path d="m49.031-38.276q-2.3561 0-4.1709-0.8278-1.8148-0.85964-2.8655-2.3879-1.0188-1.5283-1.0188-3.5341v-2.3242q0-1.783 0.987-3.2794 0.987-1.4964 2.6426-2.3879 1.6556-0.92332 3.6933-0.92332 1.8466 0 3.3749 0.76413 1.5601 0.76413 2.5152 2.1332 0.95516 1.3372 0.95516 3.152 0 1.4327-0.47758 2.0695-0.44574 0.60493-1.178 0.76413-0.70045 0.12735-1.4327 0.12735h-6.1448v0.19103q0 1.178 0.89148 1.9103 0.89148 0.70045 2.3561 0.70045 0.987 0 1.6874-0.28655 0.70045-0.31839 1.2417-0.60493 0.54126-0.28655 1.0507-0.28655 0.5731 0 0.987 0.38206 0.4139 0.38206 0.60493 0.89148 0.22287 0.50942 0.22287 0.89148 0 0.60493-0.73229 1.2735-0.73229 0.66861-2.0695 1.1462-1.3054 0.44574-3.1202 0.44574zm-3.1202-9.4242h3.948q0.35022 0 0.50942-0.15919t0.15919-0.60493q0-0.63677-0.35022-1.0507-0.31839-0.44574-0.85964-0.63677-0.50942-0.22287-1.1144-0.22287-0.5731 0-1.1144 0.22287-0.50942 0.19103-0.85964 0.63677-0.31839 0.4139-0.31839 1.0507z" style="animation:5s linear -3s infinite rainbow reverse"/>
+    <path d="m62.913-38.181q-0.60493 0-1.1462-0.19103-0.54126-0.19103-0.73229-0.66861l-4.9031-12.258q-0.09552-0.25471-0.12736-0.38206-0.03184-0.15919-0.03184-0.28655 0-0.5731 0.54126-1.0188 0.54126-0.44574 1.3054-0.70045 0.76413-0.25471 1.4009-0.25471 0.47758 0 0.85964 0.19103 0.38206 0.15919 0.50942 0.5731l2.8336 8.087 2.0377-6.8453q0.19103-0.63677 0.63677-0.79596 0.44574-0.15919 0.987-0.15919t0.987 0.15919q0.44574 0.15919 0.63677 0.79596l2.0377 6.8453 2.8336-8.087q0.25471-0.76413 1.3372-0.76413 0.60493 0 1.3691 0.25471 0.76413 0.25471 1.3054 0.73229 0.5731 0.44574 0.5731 1.0507 0 0.12735-0.03184 0.28655t-0.09552 0.31839l-4.9031 12.258q-0.19103 0.47758-0.73229 0.66861-0.54126 0.19103-1.178 0.19103-0.70045 0-1.3054-0.22287-0.5731-0.22287-0.73229-0.63677l-2.1013-5.5399-2.1013 5.5399q-0.12736 0.4139-0.73229 0.63677-0.60493 0.22287-1.3372 0.22287z" style="animation:5s linear -2.5s infinite rainbow reverse"/>
+    <path d="m82.43-38.595q-1.0825 0-1.783-0.47758-0.66861-0.47758-0.66861-1.0507v-20.791q0-0.66861 0.66861-1.0825 0.70045-0.4139 1.783-0.4139 1.0188 0 1.7511 0.4139 0.73229 0.4139 0.73229 1.0825v20.791q0 0.5731-0.73229 1.0507t-1.7511 0.47758z" style="animation:5s linear -2s infinite rainbow reverse"/>
+    <path d="m90.835-38.595q-0.92332 0-1.7193-0.38206-0.76413-0.38206-0.76413-1.1462v-20.249q0-0.79596 0.76413-1.1462 0.79596-0.35022 1.7193-0.35022 0.92332 0 1.6874 0.35022 0.79596 0.35022 0.79596 1.1462v7.6413l5.9538-8.4372q0.47758-0.70045 1.3054-0.70045 0.63677 0 1.3054 0.38206 0.70045 0.38206 1.1462 0.95516 0.47758 0.5731 0.47758 1.2099 0 0.19103-0.0637 0.44574-0.0637 0.25471-0.2547 0.50942l-5.2215 6.5588 6.5906 10.093q0.25471 0.4139 0.25471 0.8278 0 0.60493-0.44574 1.178-0.44574 0.57309-1.1462 0.95516-0.66861 0.35022-1.4009 0.35022-0.50942 0-0.95516-0.19103-0.44574-0.22287-0.76413-0.73229l-5.4444-8.278-1.3372 1.7193v5.7628q0 0.76413-0.79596 1.1462-0.76413 0.38206-1.6874 0.38206z" style="animation:5s linear -1.5s infinite rainbow reverse"/>
+    <path d="m108.51-38.595q-1.0507 0-1.7511-0.47758-0.66861-0.47758-0.66861-1.0507v-12.131q0-0.66861 0.66861-1.0825 0.70045-0.4139 1.7511-0.4139 0.92332 0 1.5601 0.4139t0.63677 1.0825v1.178q0.31839-0.70045 0.89148-1.3372 0.60494-0.66861 1.3372-1.0825 0.76413-0.44574 1.5601-0.44574h0.92332q0.70044 0 1.2099 0.63677 0.54126 0.63677 0.54126 1.4964 0 0.89148-0.54126 1.5283-0.50942 0.63677-1.2099 0.63677h-0.92332q-0.85965 0-1.6556 0.60493-0.79597 0.5731-1.3054 1.6238-0.50942 1.0507-0.50942 2.5152v4.7758q0 0.5731-0.73229 1.0507t-1.783 0.47758z" style="animation:5s linear -1s infinite rainbow reverse"/>
+    <path d="m121.08-56.679q-1.0825 0-1.8466-0.70045-0.76413-0.70045-0.76413-1.5919 0-0.92332 0.76413-1.5919 0.76413-0.66861 1.8466-0.66861t1.8148 0.66861q0.76412 0.66861 0.76412 1.5919 0 0.89148-0.76412 1.5919-0.73229 0.70045-1.8148 0.70045zm0 18.084q-1.0825 0-1.783-0.47758-0.66861-0.47758-0.66861-1.0507v-12.131q0-0.66861 0.66861-1.0825 0.70045-0.4139 1.783-0.4139 1.0188 0 1.7511 0.4139t0.73229 1.0825v12.131q0 0.5731-0.73229 1.0507t-1.7511 0.47758z" style="animation:5s linear -0.5s infinite rainbow reverse"/>
+    <path d="m131.68-38.276q-1.6556 0-3.0565-0.4139-1.3691-0.4139-2.1969-1.0825-0.79596-0.66861-0.79596-1.4327 0-0.38206 0.19103-0.89148 0.22287-0.50942 0.5731-0.89148 0.38206-0.38206 0.85964-0.38206 0.50942 0 1.0188 0.38206 0.50942 0.35022 1.2417 0.70045 0.76413 0.35022 2.0377 0.35022t1.6238-0.35022q0.35022-0.38206 0.35022-0.70045 0-0.54126-0.54125-0.8278-0.54126-0.31839-1.4009-0.50942-0.82781-0.22287-1.783-0.47758-0.95516-0.28655-1.8148-0.76413-0.82781-0.47758-1.3691-1.3054-0.54126-0.8278-0.54126-2.165 0-1.178 0.54126-2.2924 0.57309-1.1462 1.8785-1.8785 1.3054-0.73229 3.5659-0.73229 1.4009 0 2.6108 0.28655 1.2417 0.28655 2.0058 0.8278 0.79597 0.50942 0.79597 1.178 0 0.31839-0.22287 0.89148-0.19103 0.54126-0.60493 0.987-0.38207 0.44574-0.95516 0.44574-0.4139 0-0.92332-0.22287-0.50942-0.25471-1.1462-0.47758-0.63677-0.25471-1.4964-0.25471-0.63677 0-1.0507 0.15919-0.38206 0.15919-0.57309 0.38206-0.19104 0.22287-0.19104 0.47758 0 0.44574 0.54126 0.70045 0.54126 0.22287 1.4009 0.44574 0.85964 0.19103 1.8148 0.47758 0.95516 0.25471 1.8148 0.79596 0.85964 0.50942 1.4009 1.4009 0.54125 0.85964 0.54125 2.2605 0 2.2287-1.5919 3.5659-1.5601 1.3372-4.5529 1.3372z" style="animation:5s linear 0s infinite rainbow reverse"/>
+   </g>
+  </g>
+ </g>
+</svg>
